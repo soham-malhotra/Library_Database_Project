@@ -1,0 +1,11 @@
+User ID,Author Name,Book Title,ISBN,Date Borrowed,Quantity in Stock
+1,George Orwell,1984,978-0451524935,2023-10-01,3
+2,J.K. Rowling,Harry Potter and the Sorcerer's Stone,978-0439708180,2023-10-02,5
+3,F. Scott Fitzgerald,The Great Gatsby,978-0743273565,2023-10-03,2
+4,Harper Lee,To Kill a Mockingbird,978-0061120084,2023-10-04,4
+5,J.R.R. Tolkien,The Hobbit,978-0618968633,2023-10-05,6
+6,Mark Twain,The Adventures of Tom Sawyer,978-0486280615,2023-10-06,7
+7,Aldous Huxley,Brave New World,978-0060850524,2023-10-07,2
+8,Jane Austen,Pride and Prejudice,978-1503290563,2023-10-08,5
+9,Leo Tolstoy,War and Peace,978-1420954286,2023-10-09,1
+10,Arthur Conan Doyle,A Study in Scarlet,978-1511970537,2023-10-10,8
