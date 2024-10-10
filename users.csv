@@ -1,4 +1,4 @@
-username,name,User ID, email
+username,name,User ID, email, Borrowed Books
 user1,Alice,1,alice@gmail.com
 user2,Bob,2,bob@gmail.com
 user3,Charlie,3,charlie@gmail.com
