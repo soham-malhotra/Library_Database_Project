@@ -1,6 +1,6 @@
-username,name,User ID,email,Borrowed Books
-user1,Alice,1,alice@gmail.com, 
-user2,Bob,2,bob@gmail.com, 
-user3,Charlie,3,charlie@gmail.com, 
-user4,David,4,david@gmail.com, 
-user5,Eve,5,eve@gmail.com, 
+username,User ID,email,Borrowed Books
+user1,1,alice@gmail.com, 
+user2,2,bob@gmail.com, 
+user3,3,charlie@gmail.com, 
+user4,4,david@gmail.com, 
+user5,5,eve@gmail.com, 
